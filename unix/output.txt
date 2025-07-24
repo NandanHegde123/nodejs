@@ -1,0 +1,6 @@
+This is some text I wantGot this data from stdin <Buffer 6e 69 74 61 63 61 74 0a>
+nitacat
+
+Got this data from stdin <Buffer 63 61 74 6e 69 74 61 0a>
+catnita
+
